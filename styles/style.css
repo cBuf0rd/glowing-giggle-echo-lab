@@ -1,0 +1,19 @@
+h3{
+  font-family: Arial, Helvetica, sans-serif;
+  color: Navy;
+}
+body{
+  background-color: GhostWhite;
+  text-align: center;
+}
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 250px;
+  width: 350px;
+}
+p{
+  font-size: 16px;
+}
