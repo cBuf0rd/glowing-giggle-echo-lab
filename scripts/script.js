@@ -15,7 +15,7 @@ $(document).ready(function(){
       var randAnimal = sAnimal[Math.floor(Math.random() * sAnimal.length)];
         
         // sends the output
-      $("#finalOutput").text(nameUpper + " YOUR SPIRIT ANIMAL " + randAnimal + "!");
+      $("#finalOutput").text(nameUpper + " YOUR SPIRIT ANIMAL IS " + randAnimal + "!");
       
     });
         
